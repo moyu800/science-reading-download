@@ -1,5 +1,6 @@
 # science reading download
  科学文库下载
+ **由于阅读器版本更新，此方法已失效，详见issues**
 ### 初始化
 1.选择需要下载的书
 
